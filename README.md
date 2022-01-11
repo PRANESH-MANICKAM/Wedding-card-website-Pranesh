@@ -1,5 +1,5 @@
 # Profolio-Full-Website-Pranesh
 
-This page is only viweable in desktop mode,not prefer for mobile version.
+This page is resposive for mobile and desktop.
 Here are the some examples of the website.
 
